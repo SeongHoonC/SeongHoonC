@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SeongHoonC/SeongHoonC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +6,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- # Hello, I'm SeongHoon Choi
+ # Hello 👋, I'm SeongHoon Choi 
    
  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vrexpert2302)](https://solved.ac/vrexpert2302)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jeongjaino&count_bg=%2321B573&title_bg=%23A5CD39&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -39,5 +37,7 @@ Here are some ideas to get you started:
 </div>
 </div>
 
+<div align="center">
 ![SeongHoonC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHoonC&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHoonC&layout=compact&theme=tokyonight)
+</div>
