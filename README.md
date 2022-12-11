@@ -35,9 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/McDonald's-FBC817?style=flat-square&logo=McDonald's&logoColor=white"/><br/>
 
 </div>
-</div>
-
-<div align="center">
+ 
 ![SeongHoonC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHoonC&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHoonC&layout=compact&theme=tokyonight)
 </div>
+
