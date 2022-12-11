@@ -11,7 +11,7 @@ Here are some ideas to get you started:
  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vrexpert2302)](https://solved.ac/vrexpert2302)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeongHoonC&count_bg=%2321B573&title_bg=%23A5CD39&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
- <img src="https://wallpapercave.com/uwp/uwp1892262.gif"/>
+ <img src="https://wallpapercave.com/uwp/uwp1892262.gif" width = "100%"/>
 
   <br/>
 
