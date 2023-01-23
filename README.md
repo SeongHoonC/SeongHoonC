@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 </div>
  
-![SeongHoonC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHoonC&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHoonC&layout=compact&theme=tokyonight)
+![SeongHoonC's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SeongHoonC&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeongHoonC&layout=compact&theme=tokyonight)
 </div>
 
