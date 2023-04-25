@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <div align="center">
  
  # Hello 👋, I'm SeongHoon Choi 
-   
+ # 우아한테크코스 5기 안드로이드 베르입니다!  
  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vrexpert2302)](https://solved.ac/vrexpert2302)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeongHoonC&count_bg=%2321B573&title_bg=%23A5CD39&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
