@@ -15,12 +15,9 @@ Here are some ideas to get you started:
   <br/>
 
  ## ✨ Blog ✨
- 학습한 내용을 꾸준히 정리합니다.
+ 학습한 내용을 꾸준히 정리합니다. <br> 블로그 발표 스터디를 직접 운영하며 매주 지식을 공유합니다.
  
  <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a> 
-
- 블로그 발표 스터디를 직접 운영하며 매주 지식을 공유합니다.
- 
  <a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/><br/>
 
  ## ✨ skills ✨
