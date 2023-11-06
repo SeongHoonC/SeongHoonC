@@ -14,39 +14,12 @@ Here are some ideas to get you started:
 
   <br/>
 
- ## ✨ Blog ✨
+ ## Blog
  학습한 내용을 꾸준히 정리합니다. <br> 블로그 발표 스터디를 직접 운영하며 매주 지식을 공유합니다.
  
  <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a> 
  <a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/><br/>
 
- ## ✨ skills ✨
- 
-<div>
-   <img src="https://img.shields.io/badge/Android-3DDD84.svg?style=flat-square&logo=android&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/JetPack-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"> -->
-   <img src="https://img.shields.io/badge/Kotlin-9d10cc?style=flat-square&logo=Kotlin&logoColor=white"/>
- <img src="https://img.shields.io/badge/Kotlin%20Coroutine-9d10cc?style=flat-square&logo=Kotlin&logoColor=white"/>
- <img src="https://img.shields.io/badge/Kotlin%20Flow-9d10cc?style=flat-square&logo=Kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JUnit-FFA500?style=flat-square"/>
- <img src="https://img.shields.io/badge/Square-000000?style=flat-square&logo=Square&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MVVM-000000?style=flat-square"/>
-   <img src="https://img.shields.io/badge/MVP-000000?style=flat-square"/>
- 
- 
- <br/>
-  <br/>
-   <br/>
-</div>
-
-![SeongHoonC's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SeongHoonC&show_icons=true&theme=tokyonight)
-<br>
-
-<!--![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeongHoonC&layout=compact&theme=tokyonight)
-</div>-->
-
- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vrexpert2302)](https://solved.ac/vrexpert2302)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SeongHoonC&count_bg=%2321B573&title_bg=%23A5CD39&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+ ## Project
+Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 현재)</br>
+Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여행을 계획하는 어플리케이션, "WitT" (2022. 09 ~ 2022. 11)</br>
