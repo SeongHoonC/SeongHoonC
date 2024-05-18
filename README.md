@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 <div align="left">
  
  ## 안녕하세요. 안드로이드 개발자 최성훈입니다.
- **- 우아한테크코스 5기 안드로이드 크루 베르입니다.** </br></br>
- **- Kotlin, Android 의 기본을 중요하게 생각합니다.** </br></br>
- **- 테스트 작성, 좋은 코드를 작성하는 방법, 객체지향에 관심이 많은 개발자입니다.** </br>
+ **- 우아한테크코스 5기 안드로이드 크루, 베르** </br>
+ **- GDG Busan Organizer** </br></br>
+ **Kotlin, Android 의 기본을 중요하게 생각합니다.** </br>
+ **테스트 작성, 좋은 코드를 작성하는 방법, 객체지향에 관심이 많은 개발자입니다.** </br>
 </br>
   
 ## Project
@@ -24,7 +25,8 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
  <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a> 
  <a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/><br/>
 
-## Education
+## Experience
+GDG Busan Organizer - 2024.04 ~ </br>
 우아한테크코스 5기 안드로이드 - 2023.02 ~ 2023.11 </br>
 부경대학교 컴퓨터공학전공 - 2018.03 ~ </br>
 
