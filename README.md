@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 </br>
   
 ## Project
-
+Android - [Banchango](https://github.com/Sundae-Gukbap/Banchango-AI) : 식자재 및 선호도 기반 레시피 추천 애플리케이션 (2024. 04 ~ 현재)</br>
 Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 현재)</br>
-Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여행을 계획하는 어플리케이션, "WitT" (2022. 09 ~ 2022. 11)</br>
+Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여행을 계획하는 애플리케이션, "WitT" (2022. 09 ~ 2022. 11)</br>
 
+## Study
+- Android Blog Study
+- AlgoLeadMe
+- WoowapCourse study lead (kotlin & Android)
+ 
 
 ## Blog
 학습한 내용을 꾸준히 정리합니다. <br> 블로그 발표 스터디를 직접 운영하며 매주 지식을 공유합니다.
- 
  <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a> 
  <a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/><br/>
 
