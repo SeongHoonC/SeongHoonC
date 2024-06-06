@@ -22,7 +22,6 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
 - Android Blog Study
 - AlgoLeadMe
 - WoowapCourse study lead (kotlin & Android)
- 
 
 ## Blog
 학습한 내용을 꾸준히 정리합니다. <br> 블로그 발표 스터디를 직접 운영하며 매주 지식을 공유합니다.
@@ -34,3 +33,6 @@ GDG Busan Organizer - 2024.04 ~ </br>
 우아한테크코스 5기 안드로이드 - 2023.02 ~ 2023.11 </br>
 부경대학교 컴퓨터공학전공 - 2018.03 ~ </br>
 
+## Speech
+- Room 테코톡
+(https://www.youtube.com/watch?v=VVVu35zDiO4)
