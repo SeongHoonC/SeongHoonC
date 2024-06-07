@@ -10,8 +10,6 @@ Here are some ideas to get you started:
  **- 우아한테크코스 5기 안드로이드 크루, 베르** </br>
  **- GDG Busan Organizer** </br></br>
  **Kotlin, Android 의 기본을 중요하게 생각합니다.** </br>
- **테스트 작성, 좋은 코드를 작성하는 방법, 객체지향에 관심이 많은 개발자입니다.** </br>
-</br>
   
 ## Project
 Android - [Banchango](https://github.com/Sundae-Gukbap/Banchango-AI) : 식자재 및 선호도 기반 레시피 추천 애플리케이션 (2024. 04 ~ 현재)</br>
@@ -20,13 +18,17 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
 
 ## Study
 - Android Blog Study
+<br/><a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
 - AlgoLeadMe
+<br/><a href="https://github.com/AlgoLeadMe/AlgoLeadMe-1"><img src="https://img.shields.io/badge/알고리드미-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
+
 - WoowapCourse study lead (kotlin & Android)
+<br/><a href="https://github.com/orgs/wowap-course/repositories"><img src="https://img.shields.io/badge/우왑코스( kotlin & Android 객체지향 )-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
 
 ## Blog
-학습한 내용을 꾸준히 정리합니다. <br> 블로그 발표 스터디를 직접 운영하며 매주 지식을 공유합니다.
- <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a> 
- <a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/><br/>
+학습한 내용을 꾸준히 정리합니다.</br>
+<a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a>  
+ 
 
 ## Experience
 GDG Busan Organizer - 2024.04 ~ </br>
@@ -34,5 +36,8 @@ GDG Busan Organizer - 2024.04 ~ </br>
 부경대학교 컴퓨터공학전공 - 2018.03 ~ </br>
 
 ## Speech
-- Room 테코톡
-(https://www.youtube.com/watch?v=VVVu35zDiO4)
+- Room 테코톡 </br>
+[Room 유튜브 영상](https://www.youtube.com/watch?v=VVVu35zDiO4)
+- DevFest Busan 2023</br>
+[함께 성장하기 발표](https://festa.io/events/4248) </br>
+[함께 성장하기 발표자료](https://seonghoonc.tistory.com/42)
