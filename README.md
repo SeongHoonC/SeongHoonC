@@ -25,6 +25,11 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
 - WoowapCourse study lead (kotlin & Android)
 <br/><a href="https://github.com/orgs/wowap-course/repositories"><img src="https://img.shields.io/badge/우왑코스( kotlin & Android 객체지향 )-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
 
+- Good code Bad code
+<br/><a href="https://github.com/woowacourse-study/2023-fun-readBook-AN"><img src="https://img.shields.io/badge/책스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
+
+- Kotlin In Action
+
 ## Blog
 학습한 내용을 꾸준히 정리합니다.</br>
 <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a>  
