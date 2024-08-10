@@ -12,8 +12,9 @@ Here are some ideas to get you started:
  **Kotlin, Android 의 기본을 중요하게 생각합니다.** </br>
   
 ## Project
+Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 2024.07)</br>
+Project Owner / Server - [WABI](https://github.com/pknu-wap/WABI-BE) : 부경대학교 WAP 소속 인증 & 체크인 웹 (2024.07 ~ 현재)</br>
 Android - [Banchango](https://github.com/Sundae-Gukbap/Banchango-AI) : 식자재 및 선호도 기반 레시피 추천 애플리케이션 (2024. 04 ~ 현재)</br>
-Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 현재)</br>
 Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여행을 계획하는 애플리케이션, "WitT" (2022. 09 ~ 2022. 11)</br>
 
 ## Study
