@@ -6,10 +6,15 @@ Here are some ideas to get you started:
 
 <div align="left">
  
- ## 안녕하세요. 안드로이드 개발자 최성훈입니다.
- **- 우아한테크코스 5기 안드로이드 크루, 베르** </br>
- **- GDG Busan Organizer** </br></br>
- **Kotlin, Android 의 기본을 중요하게 생각합니다.** </br>
+ ## 안녕하세요. 시 쓰는 개발자 최성훈입니다. 
+**적절한 추상화와 코드 품질 향상을 위한 리팩터링이 제 시쓰는 취미와 비슷합니다.** </br>
+**더 나은 방향으로 의미를 전달하고 서비스를 제공할 수 없을까 항상 고민하며 개발합니다.** </br>
+
+**Kotlin, Android 의 기본을 중요하게 생각합니다.** </br>
+
+**- 우아한테크코스 5기 안드로이드 크루, 베르** </br>
+**- GDG Busan Organizer** </br></br>
+ 
   
 ## Project
 Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 2024.07)</br>
