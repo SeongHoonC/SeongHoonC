@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 
 **- 우아한테크코스 5기 안드로이드 크루, 베르** </br>
 **- GDG Busan Organizer** </br></br>
- 
+
+
+## Work Experience
+- 센디 (Sendy): Android Engineer (2024.11.11 ~ )
+- Benenfeldt: POS 개발 Android Engineer (2024.08.01 ~ 2024.11.30)
   
 ## Project
 Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 2024.07)</br>
@@ -39,7 +43,6 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
 ## Blog
 학습한 내용을 꾸준히 정리합니다.</br>
 <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a>  
- 
 
 ## Experience
 GDG Busan Organizer - 2024.04 ~ </br>
