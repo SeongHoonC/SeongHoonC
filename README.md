@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 ## Work Experience
-- 센디 (Sendy): Android Engineer (2024.11.11 ~ )
-- Benenfeldt: POS 개발 Android Engineer (2024.08.01 ~ 2024.11.30)
+- 센디 (Sendy): Android Engineer (2024.11 ~ )
+- Benenfeldt: POS 개발 Android Engineer (2024.08 ~ 2024.11)
   
 ## Project
 Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 2024.07)</br>
