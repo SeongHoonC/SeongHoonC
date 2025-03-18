@@ -10,10 +10,6 @@ Here are some ideas to get you started:
 **적절한 추상화와 코드 품질 향상을 위한 리팩터링이 제 시쓰는 취미와 비슷합니다.** </br>
 **더 나은 방향으로 의미를 전달하고 서비스를 제공할 수 없을까 항상 고민하며 개발합니다.** </br>
 
-**- 센디 안드로이드 개발자이자 우아한테크코스 5기 안드로이드입니다.** </br>
-**- GDG Busan Organizer 로 부산 개발자 행사를 주최합니다.** </br></br>
-
-
 ## Work Experience
 - 센디 (Sendy): Android Engineer (2024.11 ~ )
 - Benenfeldt: POS 개발 Android Engineer (2024.08 ~ 2024.11)
