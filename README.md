@@ -39,9 +39,9 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
 <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a>  
 
 ## Experience
-GDG Busan Organizer - 2024.04 ~ </br>
+GDG Busan Organizer - 2024.04 ~ 2025.03 </br>
 우아한테크코스 5기 안드로이드 - 2023.02 ~ 2023.11 </br>
-부경대학교 컴퓨터공학전공 - 2018.03 ~ </br>
+부경대학교 컴퓨터공학전공 - 2018.03 ~ 2025.02 </br>
 
 ## Speech
 - Room 테코톡 </br>
