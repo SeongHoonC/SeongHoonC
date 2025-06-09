@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 <div align="left">
  
  ## 안녕하세요. 시 쓰는 개발자 최성훈(베르)입니다. 
-**적절한 추상화와 코드 품질 향상을 위한 리팩터링이 제 시쓰는 취미와 비슷합니다.** </br>
-**더 나은 방향으로 의미를 전달하고 서비스를 제공할 수 없을까 항상 고민하며 개발합니다.** </br>
+**더 나은 제품으로 가치를 전달하기 위해 고민하며 개발합니다.** </br>
 
 ## Work Experience
 - 센디 (Sendy): Android Engineer (2024.11 ~ )
