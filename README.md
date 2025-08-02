@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Experience
 우아한테크코스 5기 안드로이드 - 2023.02 ~ 2023.11 </br>
 부경대학교 컴퓨터공학전공 - 2018.03 ~ 2025.02 </br>
-Nextstep Android 학습 테스트로 배우는 Compose 3기 수료
+Nextstep 학습 테스트로 배우는 Compose 3기 수료 </br>
 GDG Busan Organizer - 2024.04 ~ 2025.03 </br>
   
 ## Project
