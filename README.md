@@ -6,18 +6,33 @@ Here are some ideas to get you started:
 
 <div align="left">
  
- ## 안녕하세요. 안드로이드 개발자 최성훈(베르)입니다. 
+## 안녕하세요. 안드로이드 개발자 최성훈(베르)입니다. 
 **사람을 위한 제품을 개발합니다. 더 많은 가치를 더 빨리 전달하기 위해 고민합니다.** </br>
 
 ## Work Experience
 - 센디 (Sendy): Android Engineer (2024.11 ~ )
 - Benenfeldt: POS 개발 Android Engineer (2024.08 ~ 2024.11)
-  
+
 ## Experience
 우아한테크코스 5기 안드로이드 - 2023.02 ~ 2023.11 </br>
 부경대학교 컴퓨터공학전공 - 2018.03 ~ 2025.02 </br>
 Nextstep 학습 테스트로 배우는 Compose 3기 수료 </br>
 GDG Busan Organizer - 2024.04 ~ 2025.03 </br>
+
+## Read Books
+
+### Technical
+- Kotlin In Action
+- Kotlin Coroutine Deep Dive
+- Clean Architecture
+
+### General
+- 함께자라기
+- 헬로 스타트업
+- 사피엔스
+- 상자 밖에 있는 사람
+- 호모데우스
+- 넥서스
   
 ## Project
 Android - [Festago](https://github.com/woowacourse-teams/2023-festa-go) : 🎪 대학 축제 줄서기, 축제 정보 제공 서비스 "페스타고" (2023. 07 ~ 2024.07)</br>
@@ -27,9 +42,9 @@ Android - [WitT](https://github.com/pknu-wap/2022_2_WAP_APP_TEAM1) : 함께 여�
 Manager - [Moadong](https://www.moadong.com/) : 모아 동아리! 부경대학교 모든 동아리를 한눈에 (2025. 05 ~ )</br>
 
 ## Study
-- Android Blog Study
+- Android Blog Study (블로그 및 발표)
 <br/><a href="https://github.com/pknu-wap/android-blog-study#%EC%B5%9C%EC%84%B1%ED%9B%88-seonghoonc"><img src="https://img.shields.io/badge/안드로이드 블로그 스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
-- AlgoLeadMe
+- AlgoLeadMe (알고리즘)
 <br/><a href="https://github.com/AlgoLeadMe/AlgoLeadMe-1"><img src="https://img.shields.io/badge/알고리드미-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
 
 - WoowapCourse study lead (kotlin & Android)
@@ -39,18 +54,9 @@ Manager - [Moadong](https://www.moadong.com/) : 모아 동아리! 부경대학�
 <br/><a href="https://github.com/woowacourse-study/2023-fun-readBook-AN"><img src="https://img.shields.io/badge/책스터디-12100E?style=social&logo=Github&logoColor=000000"/></a> <br/>
 
 
-## Read Books
-- Kotlin In Action
-- Kotlin Coroutine Deep Dive
-- 함께자라기
-- 헬로 스타트업
-- Clean Architecture
-- 사피엔스
-- 상자 밖에 있는 사람
 
 
 ## Blog
-학습한 내용을 가끔 정리합니다.</br>
 <a href="https://seonghoonc.tistory.com/"><img src="https://img.shields.io/badge/베르의 안드로이드 tistory-12100E?style=social&logo=Tistory&logoColor=000000"/></a>  
 
 
