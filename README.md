@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - Benenfeldt: POS 개발 Android Engineer (2024.08 ~ 2024.11)
 
 ## Experience
+우아한테크코스 8기 리뷰어 - 2026.02 ~ 
 우아한테크코스 5기 안드로이드 - 2023.02 ~ 2023.11 </br>
 부경대학교 컴퓨터공학전공 - 2018.03 ~ 2025.02 </br>
 Nextstep 학습 테스트로 배우는 Compose 3기 수료 </br>
@@ -27,6 +28,9 @@ GDG Busan Organizer - 2024.04 ~ 2025.03 </br>
 - Clean Architecture
 
 ### General
+- 유난한 도전
+- 사용자를 생각하게 하지마!
+- 비폭력대화
 - 함께자라기
 - 헬로 스타트업
 - 사피엔스
